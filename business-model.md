@@ -12,3 +12,11 @@ Brands pays a handling fee of 10% taken from their chosen budget (50% discount o
 The influencer receives their pay-out minus the 10% handling fee. In the end, 20% of the total fee is used for Token buyback and will be burned. The other 80% flows back into the ecosystem for marketing, development, and user rewards.
 
 ![](.gitbook/assets/revenue-stream.jpg)
+
+****
+
+### **Chirpley (CHRP) Token Economy** <a href="#chirpley_chrp_token_economy" id="chirpley_chrp_token_economy"></a>
+
+![](https://storage.googleapis.com/public-dao-pad-prod/1658266583\_Token.webp)
+
+Copy link\
