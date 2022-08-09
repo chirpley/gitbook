@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/introduction.jpg
+coverY: 0
+---
+
 # Introduction
 
 

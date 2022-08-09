@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/introduction.jpg
-coverY: 0
+cover: .gitbook/assets/21.png
+coverY: -17.62114537444934
 ---
 
 # Changing the Landscape
